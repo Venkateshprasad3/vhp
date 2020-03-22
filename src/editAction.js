@@ -1,0 +1,1 @@
+export const editDetails = (currentDetail) => ({ type: 'EDIT',currentDetail:currentDetail});
